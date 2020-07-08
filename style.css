@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    position: absolute;
+width: 198.07px;
+height: 59px;
+top: 30px;
+}
+.clear-bg{
+   background-color: #F0FFF0;;
+}
+.ready{
+    color: red;
+}
+.button{
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+h1{
+    font-weight: 700;
+    font-size: 48px;
+}
+h3{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+}
+.work{
+    width: 66px;
+    height: 85px;       
+}
+.icon{
+    
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: none;
+        border-radius: 10px;
+        box-shadow: lightgray  5px 5px;
+}
+
+
+h5, h6{
+    text-align: center;
+    font-weight: 800;
+}
+.card-text{
+    text-align: center;
+}
+.online-courses{
+    padding: 10px 10px 10px 10px;
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 40px lightgray;
+}
+.buy{
+    margin-left: 30px;
+}
+.notification{
+    width: 10%;
+    display: inline;
+}   
+#psychology-footer {
+    
+    margin-bottom: 0px;
+   
+}
+.calender{
+    font-size: 14px;
+    font-weight: 700;
+    padding-top: 15px;
+}
+.testimonial1{
+  margin-left: 170px;
+width: 120px;
+height: 120px;
+left: 353px;
+top: 1787px;
+}
+.speech{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.black-bg{
+    background-color: black;
+}
+.footer-color{
+    color: white;
+   
+}
+.comment{
+    padding-top: 30px;
+}
+.col-md-2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.course-heading{
+    font-weight: 900 ;
+    
+}
+footer{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
